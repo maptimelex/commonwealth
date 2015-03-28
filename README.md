@@ -5,6 +5,8 @@ A Repo Of Geo-Related Things In Kentucky - Have something to add? Fork this repo
 
 
 ##State Government Repositories  
+
+- [Kentucky State Data Center(http://ksdc.louisville.edu/)
 - [KyGeoportal](http://kygisserver.ky.gov/geoportal/catalog/main/home.page)
 
 ##Local Government Repositories  
@@ -14,7 +16,8 @@ A Repo Of Geo-Related Things In Kentucky - Have something to add? Fork this repo
 ##Other Repositories  
 
 
-##Professional Organizations  
+##Professional Organizations
+
 - [Kentucky Association of Mapping Professionals](http://kampro.org/) (KAMP)
 
 ##Meetups  
@@ -25,6 +28,8 @@ A Repo Of Geo-Related Things In Kentucky - Have something to add? Fork this repo
 
 **Code for America** -- join developers, designers, data geeks, leaders, and idea-makers who volunteer to help local government and civic orgs adopt open web technologies.  
 
+* [Civic Data Alliance](http://www.civicdataalliance.org/) (Louisville)
+* [OpenLexington](http://openlexington.org/)
 
 **Tools**
 - [Kentucky Single Coordinate Conversion Tool](http://kgs.uky.edu/kgsweb/CoordConversionTool.asp) (KGS)
