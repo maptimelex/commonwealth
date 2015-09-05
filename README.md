@@ -2,16 +2,22 @@
 A Repo Of Geo-Related Things In Kentucky - Have something to add? Fork this repo or contact maptimelex@gmail.com  
 
 ##University Repositories  
-
+- [University of Kentucky Facilities REST services](http://atlas.uky.edu/ugis/rest/services)
 
 ##State Government Repositories  
 
-- [Kentucky State Data Center(http://ksdc.louisville.edu/)
+- [Kentucky State Data Center](http://ksdc.louisville.edu/)
+- [Kentucky GIS Server (REST services)](http://kygisserver.ky.gov/arcgis/rest/services)
 - [KyGeoportal](http://kygisserver.ky.gov/geoportal/catalog/main/home.page)
 
-##Local Government Repositories  
+##Local Government Repositories 
+- [Boone County REST services](http://arcgis.boonecountygis.com/ags/rest/services)
+- [Georgetown-Scott County REST Services](http://gis.gscplanning.com/arcgis/rest/services)
 - [Lexington Open Data Portal](http://data.lexingtonky.gov/)
+- [LFUCG GIS REST Services](http://gis.lexingtonky.gov/lfucggis/rest/services/)
+- [LINK-GIS REST Services (Campbell, Kenton, and Pendleton County)](http://linkgis.org/arcgisweb/rest/services/)
 - [Louisville Open Data Portal](http://portal.louisvilleky.gov/service/data)
+- [Oldham County REST Services](http://oldhamgis.org/ArcGIS/rest/services/)
 
 ##Other Repositories  
 
