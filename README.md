@@ -8,6 +8,7 @@ A Repo Of Geo-Related Things In Kentucky - Have something to add? Fork this repo
 
 - [Kentucky State Data Center](http://ksdc.louisville.edu/)
 - [Kentucky GIS Server (REST services)](http://kygisserver.ky.gov/arcgis/rest/services)
+- [Kentucky Public Service Commission](http://psc.ky.gov/Home/Maps)
 - [KyGeoportal](http://kygisserver.ky.gov/geoportal/catalog/main/home.page)
 
 ##Local Government Repositories 
