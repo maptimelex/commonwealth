@@ -1,5 +1,5 @@
 # commonwealth
-A Repo Of Geo-Related Things In Kentucky - Have something to add? Fork this repo or contact maptimelex@gmail.com  
+A Repo Of Geo-Related Things In Kentucky - Have something to add? Fork this repo and create a pull request or contact maptimelex@gmail.com with your suggestions!
 
 ##University Repositories  
 - [University of Kentucky Facilities REST services](http://atlas.uky.edu/ugis/rest/services)
@@ -22,6 +22,9 @@ A Repo Of Geo-Related Things In Kentucky - Have something to add? Fork this repo
 
 ##Other Repositories  
 
+- [CensusReporter.org (Kentucky results)](http://censusreporter.org/profiles/04000US21-kentucky/).
+  - Link goes to Kentucky result page from which you can download Census data across a variety of datasets and different scales (state, county, tract, block group, etc)
+  - Just go to [CensusReporter.org](http://censusreporter.org/) to query all Census data
 
 ##Professional Organizations
 
@@ -41,5 +44,9 @@ A Repo Of Geo-Related Things In Kentucky - Have something to add? Fork this repo
 **Tools**
 - [Kentucky Single Coordinate Conversion Tool](http://kgs.uky.edu/kgsweb/CoordConversionTool.asp) (KGS)
 - [Kentucky Multiple Coordinate Conversion Tool](http://kgs.uky.edu/kgsmap/basemap/coordUpload.asp) (KGS)
+- [shapefile-ags](https://github.com/JasonSanford/shapefile-ags)
+  - Command line tool for creating shapefiles from ArcGIS Server service layers
+- [Tileify AGS Proxy](https://github.com/JasonSanford/tileify-ags-proxy)
+  - Use ArcGIS map services with Leaflet, OpenLayers, and GoogleMaps
 
 
