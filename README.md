@@ -2,7 +2,7 @@
 A Repo Of Geo-Related Things In Kentucky - Have something to add? Fork this repo and create a pull request or contact maptimelex@gmail.com with your suggestions!
 
 ##University Repositories  
-- [University of Kentucky Facilities REST services](http://atlas.uky.edu/ugis/rest/services)
+- [University of Kentucky Facilities REST services](http://personnel.facilities.uky.edu/ugis/rest/services)
 
 ##State Government Repositories  
 
