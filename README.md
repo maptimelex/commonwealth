@@ -21,7 +21,9 @@ A Repo Of Geo-Related Things In Kentucky - Have something to add? Fork this repo
 - [Lexington Open Data Portal](http://data.lexingtonky.gov/)
 - [LFUCG GIS REST Services](http://maps.lexingtonky.gov/lfucggis/rest/services)
 - [LINK-GIS REST Services (Campbell, Kenton, and Pendleton County)](http://linkgis.org/arcgisweb/rest/services/)
-- [Louisville Open Data Portal](http://portal.louisvilleky.gov/service/data)
+- [Louisville Open Data Portal](http://portal.louisvilleky.gov/service/data) - *This is being deprecated. Probably best to use LOJIC*
+- [LOJIC Open Data Portal](http://louisville.lojic.opendata.arcgis.com/)
+- [Lousiville/Jefferson County/Montgomery County(?) AGOL services](https://services5.arcgis.com/GM2ldXfeLnrqaq3j/ArcGIS/rest/services)
 - [Oldham County REST Services](http://oldhamgis.org/ArcGIS/rest/services/)
 
 ##Other Repositories  
