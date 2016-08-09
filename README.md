@@ -12,8 +12,7 @@ A Repo Of Geo-Related Things In Kentucky - Have something to add? Fork this repo
 - [KYRaster (State Imagery Services)](http://kyraster.ky.gov/arcgis/rest/services/ImageServices)
 - [Kentucky Public Service Commission](http://psc.ky.gov/Home/Maps)
 - [Kentucky Transportation Center (REST services)](http://maps.kytc.ky.gov/arcgis/rest/services)
-- Kentucky Transportation Center (Download shapefiles from FTP):
-  - *ftp://ftp.kymartian.ky.gov/trans/statewide/shape*
+- [Kentucky Transportation Center (FTP)](ftp://ftp.kymartian.ky.gov/trans/statewide/shape)
 - [KyGeoportal](http://kygisserver.ky.gov/geoportal/catalog/main/home.page)
 
 ##Local Government Repositories 
