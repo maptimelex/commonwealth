@@ -6,6 +6,7 @@ A Repo Of Geo-Related Things In Kentucky - Have something to add? Fork this repo
 
 ##State Government Repositories  
 
+- [Kentucky Cabinet for Economic Development (REST Services)](http://cedgis.ky.gov/arcgis/rest/services)
 - [Kentucky State Data Center](http://ksdc.louisville.edu/)
 - [Kentucky GIS Server (REST services)](http://kygisserver.ky.gov/arcgis/rest/services)
 - [KYRaster (State Imagery Services)](http://kyraster.ky.gov/arcgis/rest/services/ImageServices)
