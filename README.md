@@ -8,7 +8,7 @@ A Repo Of Geo-Related Things In Kentucky - Have something to add? Fork this repo
 
 - [Kentucky Cabinet for Economic Development (REST Services)](http://cedgis.ky.gov/arcgis/rest/services)
 - [Kentucky State Data Center](http://ksdc.louisville.edu/)
-- [Kentucky GIS Server (REST services)]
+- [Kentucky GIS Server (REST services)](http://kygisserver.ky.gov/arcgis/rest/services)
 - KYMARTIAN (FTP Server)
  - ftp://ftp.kymartian.ky.gov/
   - This has a lot of data. A bit of trouble to wade through but does include state lidar data! 
