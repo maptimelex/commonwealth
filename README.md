@@ -31,6 +31,7 @@ A Repo Of Geo-Related Things In Kentucky - Have something to add? Fork this repo
 - [Louisville Open Data Portal](http://portal.louisvilleky.gov/service/data) - *This is being deprecated. Probably best to use LOJIC*
 - [LOJIC Open Data Portal](http://louisville.lojic.opendata.arcgis.com/)
 - [Lousiville/Jefferson County/Montgomery County(?) AGOL services](https://services5.arcgis.com/GM2ldXfeLnrqaq3j/ArcGIS/rest/services)
+- [Madison County Open Data Portal](http://data.madcogis.opendata.arcgis.com/)
 - [Oldham County REST Services](http://services5.arcgis.com/4eBIYcSR3sVL9y0D/ArcGIS/rest/services/)
 
 ##Other Repositories  
