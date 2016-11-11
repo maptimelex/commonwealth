@@ -23,7 +23,8 @@ A Repo Of Geo-Related Things In Kentucky - Have something to add? Fork this repo
 ##Local Government Repositories 
 - [Bluegrass Area Development District REST Services](http://maps.bgadd.org/arcgis/rest/services/)
   - Includes data for Garrard, Jessamine, Madison, and Woodford County
-- [Boone County REST services](https://arcgis.boonecountygis.com/ags/rest/services)
+- [Boone County REST Services](https://arcgis.boonecountygis.com/ags/rest/services)
+- [Clark County REST Services](http://gis.ccgisonline.com:6080/arcgis/rest/services)
 - [Georgetown-Scott County REST Services](http://gis.gscplanning.com/arcgis/rest/services)
 - [Lexington Open Data Portal](http://data.lexingtonky.gov/)
 - [LFUCG GIS REST Services](http://maps.lexingtonky.gov/lfucggis/rest/services)
