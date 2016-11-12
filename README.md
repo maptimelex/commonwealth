@@ -31,10 +31,10 @@ A Repo Of Geo-Related Things In Kentucky - Have something to add? Fork this repo
 - [LINK-GIS REST Services (Campbell, Kenton, and Pendleton County)](http://linkgis.org/arcgisweb/rest/services/)
 - [Louisville Open Data Portal](http://portal.louisvilleky.gov/service/data) - *This is being deprecated. Probably best to use LOJIC*
 - [LOJIC Open Data Portal](http://louisville.lojic.opendata.arcgis.com/)
-- [Lousiville/Jefferson County/Montgomery County(?) AGOL services](https://services5.arcgis.com/GM2ldXfeLnrqaq3j/ArcGIS/rest/services)
 - [Madison County Open Data Portal](http://data.madcogis.opendata.arcgis.com/)
 - [McCracken County REST Services](http://map-gis.paducahky.gov/arcgis/rest/services)
 - [Oldham County REST Services](http://oldhamgis.org:6080/arcgis/rest/services)
+- [Shelby County (Triple S) REST Services](https://services2.arcgis.com/VqPd1Ybcc46AvijK/arcgis/rest/services/)
 
 ##Other Repositories  
 
